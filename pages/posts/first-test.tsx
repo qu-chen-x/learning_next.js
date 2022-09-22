@@ -45,7 +45,7 @@ export default function FirstTest({
                   </Link>
                   <br />
                   <small className={styles.lightText}>
-                    <Date dateString={date} />
+                    <Date dateString={date as string} />
                   </small>
                 </li>
               ))}

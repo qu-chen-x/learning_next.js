@@ -1,0 +1,31 @@
+.container {
+    width:100vw;
+    height:100vh;
+    /* padding: 0 2rem; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .layout{
+    width:500px;
+    padding:0 1rem;
+    border:1px solid blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+.list{
+
+}
+.listItem{
+  
+}
+.headingXl{
+
+}
+.lightText{
+    
+}

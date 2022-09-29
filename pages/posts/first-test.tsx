@@ -34,7 +34,7 @@ export default function FirstTest({
           <h2>
             <Link href="/">Back to Index!</Link>
           </h2>
-          <Image src="/images/firImg.jpg" alt="pic" height={300} width={400} />
+          <Image src="/images/firImg.jpg" alt="pic" height={300} width={500} />
 
           <div>
             <ul className={styles.list}>

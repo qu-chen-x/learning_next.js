@@ -15,7 +15,7 @@ export default function Layout({ children, home }: Props) {
         <header className={styles.header}>
           <h1>Welcome to Aimee&apos;s Blog!</h1>
           <br />
-          <Image src="/images/secImg.jpg" alt="" width={200} height={200} />
+          <Image src="/images/secImg.jpg" alt="" width={300} height={200} />
         </header>
       ) : null}
       {home ? (
